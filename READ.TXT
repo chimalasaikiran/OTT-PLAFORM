@@ -1,0 +1,35 @@
+## Overview
+
+### Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+### HTML
+
+This HTML document represents a pricing landing page for OTT (Over-The-Top) plans. 
+It includes a responsive header with navigation, a prominent home section promoting diverse content,
+ and a plans section detailing various subscription options. 
+ Each plan displays features, prices, and a "Buy Now" button. 
+ The page also features a contact section with a form and a copyright footer. 
+ External stylesheets and JavaScript libraries, such as Boxicons and ScrollReveal, enhance the design and functionality.
+  The page aims to provide an engaging user experience for individuals interested in subscribing to OTT plans while maintaining a 
+  clean and modern design.
+
+
+## CSS
+The provided CSS code defines a responsive webpage styling using the Poppins and Roboto fonts.
+ It establishes a dark theme with various color variables. The header has a fixed position with a gradient logo.
+ The navigation menu becomes a dropdown on smaller screens. The home section features a floating image and social media links to added hovers.
+A section for plans displays information in boxes with hover effects. The contact section includes a form,
+and the footer has copyright text. Media queries adapt the layout for different screen sizes, optimizing font sizes,
+and adjusting the layout for better responsiveness.
+
+
+     ## JavaScript
+     The code toggles a menu icon and activates a navbar on click. 
+     ScrollReveal animates elements with a top origin on scroll.
+
+
+     Note:- 1)system is connect internet becasue social media is work on internet then after we see social media
+          
